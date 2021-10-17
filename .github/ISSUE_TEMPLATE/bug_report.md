@@ -23,7 +23,6 @@ about: Something isn't working as expected
 ## Additional information
 
 ## Suspected cause (optional)
-<!-- If you think you know what caused this bug -->
 
 ## Versions
 
@@ -31,3 +30,4 @@ about: Something isn't working as expected
  - OS:
  - Device: <!-- like MacBook -->
  - (If public) The repo you're using Local CI to debug:
+ 
